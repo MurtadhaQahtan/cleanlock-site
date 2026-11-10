@@ -1,4 +1,4 @@
-# CleanLock website
+# Keyboard Cleaning Lock website
 
 GitHub Pages site for CleanLock (Windows keyboard cleaning lock).
 
